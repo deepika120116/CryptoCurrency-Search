@@ -1,0 +1,9 @@
+.content,
+.headerContent{
+  background-color: rgb(111, 110, 110);
+  color:whitesmoke;
+}
+
+.card{
+  background-color: darkgrey;
+}
